@@ -1,0 +1,1 @@
+If input is valid, save input to textfile = call repositories
