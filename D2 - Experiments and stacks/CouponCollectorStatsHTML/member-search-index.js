@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"D2_Experiments_Stacks","c":"CouponCollectorStats","l":"CouponCollectorStats()","url":"%3Cinit%3E()"},{"p":"D2_Experiments_Stacks","c":"CouponCollectorStats","l":"couponCollectorStats(int, int)","url":"couponCollectorStats(int,int)"},{"p":"D2_Experiments_Stacks","c":"CouponCollectorStats","l":"main(String[])","url":"main(java.lang.String[])"}]
