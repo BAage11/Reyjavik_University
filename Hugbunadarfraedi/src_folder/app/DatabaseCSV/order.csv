@@ -1,0 +1,3 @@
+Order_Id,ServiceUserName,UserName,HourlyRate,DayAvailable,Date
+"1","Hougo Alveres","Ari","9.50","['Monday', '9:00', '10:00']","2019-10-7"
+"2","Hougo Alveres","Ari","9.50","['Friday', '9:00', '10:00']","2019-10-4"
