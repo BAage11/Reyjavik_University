@@ -1,0 +1,13 @@
+As a cleaner, I want to be able to offer my services so that people can easily discover my work, thus credit my work.
+
+As a cleaner I want to be able to show people when I am available so that I don't get double booked.
+
+As a user, I want to be able to rent a cleaner to help around the house.
+
+As a cleaner, I want to be able to withdraw my service(s) if my schedule changes.
+
+As a user, I want to be able to login so that I can order cleaners.
+
+As a user, I want to be able to review cleaners that I have ordered before.
+
+As an administrator, I want to be able to check out the sales statistics of the services.

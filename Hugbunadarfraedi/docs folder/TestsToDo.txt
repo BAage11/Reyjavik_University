@@ -1,0 +1,13 @@
+sendRegisteredService(client):
+    Name must be 4 or more letters and contain only characters
+    Hourly Rate must be bigger than 0 and contain only numbers.
+    Date Input must be all numbers between 1 and 7, separated by commas
+    
+
+Working hours fyrri tala verður að vera minni en seinni tala?
+
+
+
+1. User input test fyrir X
+2. Server/database test sem sendir X og breytir því í Y
+3. Test sem gengur úr skugga um að clientinn fái rétt til baka frá servernum (Y)

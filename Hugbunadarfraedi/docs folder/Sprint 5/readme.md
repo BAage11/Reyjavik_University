@@ -1,0 +1,1 @@
+If the video doesn't play, a copy of it is available on youtube here https://www.youtube.com/watch?v=JCevSbcHWRE&fbclid
