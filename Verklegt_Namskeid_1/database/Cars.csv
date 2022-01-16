@@ -1,0 +1,51 @@
+plate_number,status,car_type,seats,fuel_type,model,price_range,manufacturer,color
+MO R58,Laus,Fólksbíll,5,95-okt,2015,12000,Toyota,Blár
+AS D65,Laus,Jeppi,5,Rafmagn,2017,20000,Nissan,Brúnn
+EE E12,Útleigu,Fólksbíll,5,95-okt,2013,12000,Honda,Blár
+ER C11,Laus,Fólksbíll,5,95-okt,2017,12000,Honda,Hvítur
+DD D01,Laus,Fólksbíll,5,Rafmagn,2016,12000,Tesla,Grár
+AS R87,Útleigu,Jeppi,8,95-okt,2013,20000,Hummer,Svartur
+NE W12,Útleigu,Jeppi,2,Dísel,2017,20000,Nissan,Rauður
+KK H81,Útleigu,Fólksbíll,4,95-okt,2015,12000,Suzuki,Blár
+UI G32,Laus,Fólksbíll,5,95-okt,2014,12000,Land Rover,Rauður
+EB Y31,Laus,Jepplingur,6,Dísel,2018,15000,Benz,Gulur
+XF N83,Laus,Jeppi,5,Rafmagn,2014,20000,Honda,Grænn
+GU I12,Útleigu,Jeppi,7,Bensín,2015,20000,Hummer,Fjólublár
+YJ N66,Laus,Smábíll,5,Bensín,2017,10000,Nissan,Brúnn
+KO T57,Laus,Smábíll,5,Dísel,2017,10000,Suzuki,Brúnn
+TR J67,Laus,Fólksbíll,5,95-okt,2016,12000,Benz,Fjólublár
+YT W53,Laus,Fólksbíll,5,Rafmagn,2015,12000,Benz,Bleikur
+KX U22,Laus,Jeppi,5,Dísel,2015,20000,Benz,Appelsínugulur
+HP S34,Laus,Smábíll,5,Rafmagn,2018,10000,Volvo,Svartur
+CF M14,Útleigu,Fólksbíll,4,95-okt,2016,12000,Tesla,Grár
+WV B13,Laus,Smábíll,5,95-okt,2017,10000,Toyota,Svartur
+GT I77,Laus,Jeppi,5,Bensín,2015,20000,BMW,Brúnn
+GA U57,Laus,Smábíll,4,Dísel,2018,10000,Nissan,Blár
+BE W22,Útleigu,Smábíll,5,Dísel,2016,10000,Honda,Brúnn
+KY V84,Útleigu,Smábíll,4,95-okt,2017,10000,Nissan,Hvítur
+MH D99,Útleigu,Jepplingur,5,Bensín,2016,15000,Honda,Grár
+AU A44,Laus,Fólksbíll,2,95-okt,2016,12000,Tesla,Svartur
+GA P88,Laus,Jeppi,6,Bensín,2015,20000,Hummer,Rauður
+AGG 52,Laus,Smábíll,5,Rafmagn,2014,10000,Nissan,Blár
+AD I55,Laus,Jepplingur,5,Dísel,2018,15000,Suzuki,Rauður
+IP H39,Laus,Jeppi,5,95-okt,2016,20000,Land Rover,Ljósblár
+VG V34,Laus,Fólksbíll,5,95-okt,2016,12000,Volvo,Gulur
+DI I93,Laus,Jeppi,2,Dísel,2017,20000,Benz,Fjólublár
+DB J20,Útleigu,Fólksbíll,2,Bensín,2015,12000,Audi,Svartur
+JS D30,Laus,Smábíll,5,Dísel,2014,10000,Nissan,Svartur
+OV P38,Laus,Smábíll,5,Rafmagn,2015,10000,Nissan,Hvítur
+SZ C49,Laus,Fólksbíll,5,Dísel,2016,12000,Suzuki,Ljósblár
+KX T89,Útleigu,Jeppi,5,Bensín,2017,20000,Honda,Bleikur
+SZ M58,Útleigu,Fólksbíll,5,Dísel,2016,12000,Benz,Grár
+KZ D66,Laus,Jepplingur,4,Dísel,2015,15000,Nissan,Gulur
+UF L34,Laus,Jeppi,5,95-okt,2014,20000,Hummer,Rauður
+LR R43,Laus,Smábíll,5,95-okt,2016,10000,Nissan,Blár
+RE H31,Útleigu,Jeppi,5,95-okt,2015,20000,Benz,Svartur
+DF A65,Útleigu,Jepplingur,5,Dísel,2016,15000,BMW,Svartur
+FV M73,Laus,Fólksbíll,5,Dísel,2015,12000,Volvo,Ljósblár
+AB X92,Laus,Jepplingur,5,95-okt,2015,15000,Nissan,Brúnn
+FV C99,Laus,Jepplingur,4,95-okt,2015,15000,Audi,Fjólublár
+II F44,Laus,Jeppi,5,Dísel,2014,20000,BMW,Hvítur
+PM Y48,Laus,Jepplingur,2,95-okt,2016,15000,Tesla,Blár
+NX C65,Laus,Jepplingur,5,95-okt,2015,15000,Volvo,Grár
+KS E82,Útleigu,Jeppi,6,95-okt,2018,20000,Land Rover,Grænn

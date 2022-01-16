@@ -1,0 +1,6 @@
+car_type,price,extra_price,insurance1,insurance2,insurance3
+Smábíll,kr.10.000,100,Kaskótrygging(kr.30.000),Bílrúðutrygging(kr.5.000),Ábyrgðartrygging(kr.50.000)
+Fólksbíll,kr.12.000,120,Kaskótrygging(kr.30.000),Bílrúðutrygging(kr.5.000),Ábyrgðartrygging(kr.50.000)
+Jepplingur,kr.15.000,150,Kaskótrygging(kr.30.000),Bílrúðutrygging(kr.5.000),Ábyrgðartrygging(kr.50.000)
+Jeppi,kr.20.000,200,Kaskótrygging(kr.30.000),Bílrúðutrygging(kr.5.000),Ábyrgðartrygging(kr.50.000)
+
