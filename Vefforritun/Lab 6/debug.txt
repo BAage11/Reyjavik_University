@@ -1,0 +1,21 @@
+1. The values of __?lename and divResult:
+
+__filename: 
+"c:\Benjamín_Aage\Háskóli_Reykjavík\Vor 2019\Vefforritun\Verkefni\Lab 6\lab06_suppl\mathProject\mathUser.js"
+
+divResult: 
+undefined
+
+
+
+2. The entire call stack (with line/character numbers):
+
+(anonymous function) (c:\Benjamín_Aage\Háskóli_Reykjavík\Vor 2019\Vefforritun\Verkefni\Lab 6\lab06_suppl\mathProject\mathUser.js:5)
+Module._compile (loader.js:686)
+Module._extensions..js (loader.js:700)
+Module.load (loader.js:599)
+tryModuleLoad (loader.js:538)
+Module._load (loader.js:530)
+Module.runMain (loader.js:742)
+startup (node.js:283)
+bootstrapNodeJSCore (node.js:743)
