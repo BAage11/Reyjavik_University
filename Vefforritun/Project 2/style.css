@@ -1,0 +1,82 @@
+
+body {
+    background-color: #f0f0f0; }
+
+header {
+    font-size: 100%;
+    text-align: center;
+    margin: -10px; }
+
+table {
+    background-color: #a9a9a9;
+    border: 5px solid black;
+    margin-left: auto;
+    margin-right: auto; }
+
+td {
+    border: 2px solid black; 
+    text-align: center;
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right: auto; 
+    padding: 6px; }
+
+input {
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto; }
+
+
+.difficultySelector, .generateButton, .validateButton {
+    text-align: center; }
+
+.generateButton {
+    padding: 10px; }
+
+
+@media only screen and (max-width: 1600px) {
+    html, body {
+        display: inline; }
+
+    header {
+        font-size: 100%;
+        text-align: center; }
+        
+    input {
+        text-align: center;
+        width: 33px;
+        height: 33px;}
+    }
+    
+
+
+@media only screen and (max-width: 1200px) {
+    html, body {
+        display: inline; }
+
+    header {
+        font-size: 70%;
+        text-align: center; }
+        
+    input {
+        text-align: center;
+        width: 30px;
+        height: 20px;}
+    }
+
+
+@media only screen and (max-width: 800px) {
+    html, body {
+        display: inline; }
+
+    header {
+        font-size: 50%;
+        text-align: center; }
+        
+    input {
+        text-align: center;
+        width: 24px;
+        height: 15px; }
+    }
