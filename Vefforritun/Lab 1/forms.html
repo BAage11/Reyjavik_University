@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en-US">
+    <head>
+        <title>forms</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">        <meta name="description" content="HTML forms.">
+        <meta name="keywords" content="HTML, Tags, Forms, T-213-VEFF"> 
+        <meta name="author" content="Benjamin Aage Birgisson"> 
+    </head>
+    <body>
+        <form action="/submitEval.php" method="post">
+            <fieldset>
+                <legend>Personal information:</legend>
+                    First name: <input type="text" name="firstname"><br>
+                    Last name: <input type="text" name="lastname"><br>
+                    Social Security Number: <input type="text" name="ssn" minlength="10" maxlength="10"><br>
+                    Gender:<br>  
+                    <input type="radio" name="gender" value="male"> Male<br>
+                    <input type="radio" name="gender" value="female"> Female<br>
+                    <input type="radio" name="gender" value="other" checked> Other 
+            </fieldset>
+            <br>
+
+            <fieldset>
+                <legend>Course context:</legend>
+                    University: <input type="text" name="uni" value="RU" disabled><br>
+                    School: <select name="school" disabled>
+                            <optgroup label="Department:">
+                                <option selected>Computer Science</option>
+                                <option>Other Department</option>
+                            </optgroup>
+                          </select><br>
+                    Course: <input type="text" name="course" value="T-213-VEFF" disabled><br>
+            </fieldset>
+            <br>
+
+            <fieldset>
+                <legend>Which lectures did you attend?</legend>
+                    <input type="checkbox" name="class1" value="Lecture_1">
+                    L1: Introduction<br>
+                    <input type="checkbox" name="class2" value="Lecture_2">
+                    L2: Networks<br>
+                    <input type="checkbox" name="class3" value="Lecture_3">
+                    L3: HTML I 
+            </fieldset>
+            <br>
+
+            <fieldset>
+                    <legend>
+                    Please describe your overall impression of the course
+                    </legend>
+                        <textarea name="message" rows="10" cols="50">My impression of this course is...</textarea>
+            </fieldset>
+
+            <input type="submit" value="Submit Evaluation" formtarget="_blank">
+        </form>
+    </body>
+</html>
