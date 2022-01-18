@@ -1,0 +1,2275 @@
+
+    new int
+current list: 
+    prepend 23
+current list: 
+    prepend 21
+current list: 
+    prepend 19
+current list: 
+    insert 20 1
+current list: 
+    insert 22 3
+current list: 
+    append 24
+current list: 
+    set_at 1 0
+current list: 
+    set_at 2 1
+current list: 
+    set_at 3 2
+current list: 
+    set_at 4 3
+current list: 
+    get_first
+current list: value: None
+
+    get_at 0
+current list: value: None
+
+    get_at 6
+current list: value: None
+
+    get_at 5
+current list: value: None
+
+    get_last
+current list: value: None
+
+    remove_at 1
+current list: 
+    remove_at 5
+current list: 
+    remove_at 0
+current list: 
+    remove_at 3
+current list: 
+    clear
+current list: 
+    new string
+current list: 
+    prepend "twentythree"
+current list: 
+    prepend "twentyone"
+current list: 
+    prepend "nineteen"
+current list: 
+    insert "twenty" 1
+current list: 
+    insert "twentytwo" 3
+current list: 
+    append "twentyfour"
+current list: 
+    set_at "one" 0
+current list: 
+    set_at "two" 1
+current list: 
+    set_at "three" 2
+current list: 
+    set_at "four" 3
+current list: 
+    get_first
+current list: value: None
+
+    get_at 0
+current list: value: None
+
+    get_at 6
+current list: value: None
+
+    get_at 5
+current list: value: None
+
+    get_last
+current list: value: None
+
+    remove_at 1
+current list: 
+    remove_at 5
+current list: 
+    remove_at 0
+current list: 
+    remove_at 3
+current list: 
+    clear
+current list: 
+    new my_class
+current list: 
+    prepend "23 twentythree 23.23"
+current list: 
+    prepend "21 twentyone 21.21"
+current list: 
+    prepend "19 nineteen 19.19"
+current list: 
+    insert "20 twenty 20.20" 1
+current list: 
+    insert "22 twentytwo 22.22" 3
+current list: 
+    append "24 twentyfour 24.24"
+current list: 
+    set_at "1 one 1.1" 0
+current list: 
+    set_at "2 two 2.2" 1
+current list: 
+    set_at "3 three 3.3" 2
+current list: 
+    set_at "4 four 4.4" 3
+current list: 
+    get_first
+current list: value: None
+
+    get_at 0
+current list: value: None
+
+    get_at 6
+current list: value: None
+
+    get_at 5
+current list: value: None
+
+    get_last
+current list: value: None
+
+    remove_at 1
+current list: 
+    remove_at 5
+current list: 
+    remove_at 0
+current list: 
+    remove_at 3
+current list: 
+    clear
+current list: 
+    new int
+current list: 
+    remove_at 1
+current list: 
+    get_at 0
+current list: value: None
+
+    get_at 1
+current list: value: None
+
+    prepend 99
+current list: 
+    get_last
+current list: value: None
+
+    append 27
+current list: 
+    set_at 17 2
+current list: 
+    insert 33 1
+current list: 
+    get_last
+current list: value: None
+
+    insert 41 3
+current list: 
+    get_first
+current list: value: None
+
+    prepend 31
+current list: 
+    get_first
+current list: value: None
+
+    insert 61 5
+current list: 
+    set_at 25 2
+current list: 
+    get_last
+current list: value: None
+
+    remove_at 7
+current list: 
+    get_at 0
+current list: value: None
+
+    insert 38 2
+current list: 
+    get_first
+current list: value: None
+
+    get_first
+current list: value: None
+
+    remove_at 1
+current list: 
+    get_first
+current list: value: None
+
+    append 88
+current list: 
+    append 10
+current list: 
+    append 41
+current list: 
+    remove_at 8
+current list: 
+    append 57
+current list: 
+    remove_at 2
+current list: 
+    get_at 5
+current list: value: None
+
+    get_last
+current list: value: None
+
+    get_last
+current list: value: None
+
+    get_last
+current list: value: None
+
+    get_first
+current list: value: None
+
+    get_at 3
+current list: value: None
+
+    set_at 24 6
+current list: 
+    prepend 33
+current list: 
+    get_first
+current list: value: None
+
+    insert 67 7
+current list: 
+    prepend 82
+current list: 
+    set_at 73 9
+current list: 
+    get_at 4
+current list: value: None
+
+    append 53
+current list: 
+    get_at 0
+current list: value: None
+
+    insert 36 12
+current list: 
+    append 17
+current list: 
+    get_first
+current list: value: None
+
+    prepend 12
+current list: 
+    set_at 90 1
+current list: 
+    get_first
+current list: value: None
+
+    append 30
+current list: 
+    get_at 8
+current list: value: None
+
+    get_at 15
+current list: value: None
+
+    set_at 88 9
+current list: 
+    append 20
+current list: 
+    get_first
+current list: value: None
+
+    prepend 56
+current list: 
+    get_last
+current list: value: None
+
+    append 73
+current list: 
+    append 74
+current list: 
+    set_at 87 11
+current list: 
+    insert 55 13
+current list: 
+    get_at 8
+current list: value: None
+
+    get_last
+current list: value: None
+
+    clear
+current list: 
+    remove_at 2
+current list: 
+    insert 45 1
+current list: 
+    get_last
+current list: value: None
+
+    set_at 36 2
+current list: 
+    remove_at 0
+current list: 
+    get_first
+current list: value: None
+
+    remove_at 1
+current list: 
+    get_first
+current list: value: None
+
+    set_at 12 0
+current list: 
+    get_first
+current list: value: None
+
+    insert 14 0
+current list: 
+    remove_at 1
+current list: 
+    prepend 88
+current list: 
+    insert 35 0
+current list: 
+    insert 17 2
+current list: 
+    append 58
+current list: 
+    get_at 1
+current list: value: None
+
+    get_first
+current list: value: None
+
+    insert 58 1
+current list: 
+    get_at 1
+current list: value: None
+
+    get_last
+current list: value: None
+
+    append 32
+current list: 
+    insert 99 0
+current list: 
+    get_at 7
+current list: value: None
+
+    get_first
+current list: value: None
+
+    prepend 18
+current list: 
+    insert 71 7
+current list: 
+    append 54
+current list: 
+    remove_at 8
+current list: 
+    get_at 1
+current list: value: None
+
+    get_last
+current list: value: None
+
+    get_at 4
+current list: value: None
+
+    get_at 3
+current list: value: None
+
+    set_at 52 5
+current list: 
+    append 40
+current list: 
+    append 72
+current list: 
+    append 42
+current list: 
+    remove_at 10
+current list: 
+    prepend 66
+current list: 
+    insert 78 3
+current list: 
+    set_at 16 5
+current list: 
+    append 83
+current list: 
+    get_last
+current list: value: None
+
+    get_first
+current list: value: None
+
+    append 88
+current list: 
+    prepend 63
+current list: 
+    insert 97 2
+current list: 
+    append 43
+current list: 
+    append 75
+current list: 
+    get_last
+current list: value: None
+
+    insert 99 6
+current list: 
+    get_first
+current list: value: None
+
+    get_at 18
+current list: value: None
+
+    get_last
+current list: value: None
+
+    append 71
+current list: 
+    get_first
+current list: value: None
+
+    remove_at 20
+current list: 
+    get_first
+current list: value: None
+
+    append 58
+current list: 
+    prepend 66
+current list: 
+    insert 64 10
+current list: 
+    insert 91 2
+current list: 
+    prepend 87
+current list: 
+    remove_at 22
+current list: 
+    get_last
+current list: value: None
+
+    remove_at 15
+current list: 
+    get_at 13
+current list: value: None
+
+    append 49
+current list: 
+    insert 56 21
+current list: 
+    prepend 71
+current list: 
+    prepend 28
+current list: 
+    get_last
+current list: value: None
+
+    get_at 23
+current list: value: None
+
+    get_first
+current list: value: None
+
+    get_first
+current list: value: None
+
+    set_at 72 6
+current list: 
+    get_first
+current list: value: None
+
+    get_first
+current list: value: None
+
+    prepend 93
+current list: 
+    get_first
+current list: value: None
+
+    append 20
+current list: 
+    get_first
+current list: value: None
+
+    get_at 25
+current list: value: None
+
+    get_at 1
+current list: value: None
+
+    append 70
+current list: 
+    set_at 84 20
+current list: 
+    append 66
+current list: 
+    append 59
+current list: 
+    get_first
+current list: value: None
+
+    insert 61 8
+current list: 
+    get_last
+current list: value: None
+
+    get_last
+current list: value: None
+
+    append 47
+current list: 
+    insert 20 9
+current list: 
+    get_at 9
+current list: value: None
+
+    insert 60 23
+current list: 
+    get_at 22
+current list: value: None
+
+    prepend 13
+current list: 
+    get_last
+current list: value: None
+
+    get_last
+current list: value: None
+
+    append 15
+current list: 
+    set_at 60 18
+current list: 
+    insert 62 11
+current list: 
+    remove_at 19
+current list: 
+    prepend 90
+current list: 
+    get_at 4
+current list: value: None
+
+    append 18
+current list: 
+    remove_at 37
+current list: 
+    set_at 32 9
+current list: 
+    get_last
+current list: value: None
+
+    get_last
+current list: value: None
+
+    get_at 14
+current list: value: None
+
+    remove_at 3
+current list: 
+    prepend 59
+current list: 
+    get_last
+current list: value: None
+
+    remove_at 21
+current list: 
+    get_first
+current list: value: None
+
+    prepend 55
+current list: 
+    get_at 11
+current list: value: None
+
+    remove_at 25
+current list: 
+    remove_at 6
+current list: 
+    get_first
+current list: value: None
+
+    set_at 95 27
+current list: 
+    get_last
+current list: value: None
+
+    remove_at 23
+current list: 
+    remove_at 19
+current list: 
+    insert 48 21
+current list: 
+    get_at 32
+current list: value: None
+
+    clear
+current list: 
+    clear
+current list: 
+    get_first
+current list: value: None
+
+    insert 99 2
+current list: 
+    insert 43 0
+current list: 
+    insert 80 4
+current list: 
+    get_last
+current list: value: None
+
+    get_first
+current list: value: None
+
+    append 82
+current list: 
+    get_last
+current list: value: None
+
+    append 41
+current list: 
+    get_last
+current list: value: None
+
+    set_at 22 6
+current list: 
+    get_last
+current list: value: None
+
+    get_first
+current list: value: None
+
+    append 92
+current list: 
+    remove_at 0
+current list: 
+    get_last
+current list: value: None
+
+    get_first
+current list: value: None
+
+    insert 73 2
+current list: 
+    get_first
+current list: value: None
+
+    get_at 7
+current list: value: None
+
+    get_first
+current list: value: None
+
+    set_at 70 6
+current list: 
+    set_at 95 0
+current list: 
+    prepend 25
+current list: 
+    get_last
+current list: value: None
+
+    append 91
+current list: 
+    remove_at 3
+current list: 
+    get_first
+current list: value: None
+
+    append 37
+current list: 
+    set_at 73 1
+current list: 
+    get_first
+current list: value: None
+
+    insert 57 0
+current list: 
+    insert 33 9
+current list: 
+    get_first
+current list: value: None
+
+    append 65
+current list: 
+    clear
+current list: 
+    get_first
+current list: value: None
+
+    set_at 60 1
+current list: 
+    prepend 94
+current list: 
+    set_at 12 0
+current list: 
+    remove_at 1
+current list: 
+    get_at 0
+current list: value: None
+
+    insert 60 1
+current list: 
+    prepend 59
+current list: 
+    get_first
+current list: value: None
+
+    get_at 0
+current list: value: None
+
+    remove_at 1
+current list: 
+    remove_at 1
+current list: 
+    remove_at 0
+current list: 
+    get_last
+current list: value: None
+
+    get_at 0
+current list: value: None
+
+    get_at 0
+current list: value: None
+
+    clear
+current list: 
+    append 96
+current list: 
+    remove_at 1
+current list: 
+    get_first
+current list: value: None
+
+    set_at 41 2
+current list: 
+    insert 94 1
+current list: 
+    insert 31 1
+current list: 
+    prepend 97
+current list: 
+    get_first
+current list: value: None
+
+    remove_at 1
+current list: 
+    prepend 10
+current list: 
+    get_at 0
+current list: value: None
+
+    prepend 33
+current list: 
+    get_at 4
+current list: value: None
+
+    insert 32 1
+current list: 
+    insert 17 7
+current list: 
+    get_first
+current list: value: None
+
+    get_last
+current list: value: None
+
+    insert 15 8
+current list: 
+    insert 10 6
+current list: 
+    get_last
+current list: value: None
+
+    get_at 1
+current list: value: None
+
+    get_last
+current list: value: None
+
+    get_first
+current list: value: None
+
+    insert 25 3
+current list: 
+    set_at 60 3
+current list: 
+    insert 69 4
+current list: 
+    insert 96 7
+current list: 
+    remove_at 10
+current list: 
+    insert 94 11
+current list: 
+    insert 13 1
+current list: 
+    clear
+current list: 
+    insert 69 0
+current list: 
+    prepend 10
+current list: 
+    append 12
+current list: 
+    get_at 5
+current list: value: None
+
+    get_first
+current list: value: None
+
+    get_at 2
+current list: value: None
+
+    get_first
+current list: value: None
+
+    remove_at 2
+current list: 
+    get_last
+current list: value: None
+
+    get_last
+current list: value: None
+
+    prepend 53
+current list: 
+    prepend 32
+current list: 
+    get_at 4
+current list: value: None
+
+    append 72
+current list: 
+    set_at 45 5
+current list: 
+    remove_at 2
+current list: 
+    append 90
+current list: 
+    remove_at 1
+current list: 
+    prepend 72
+current list: 
+    prepend 72
+current list: 
+    get_first
+current list: value: None
+
+    prepend 17
+current list: 
+    get_at 6
+current list: value: None
+
+    insert 39 3
+current list: 
+    set_at 52 9
+current list: 
+    insert 10 0
+current list: 
+    get_at 10
+current list: value: None
+
+    get_last
+current list: value: None
+
+    get_at 11
+current list: value: None
+
+    insert 29 7
+current list: 
+    get_first
+current list: value: None
+
+    get_first
+current list: value: None
+
+    get_first
+current list: value: None
+
+    get_last
+current list: value: None
+
+    append 61
+current list: 
+    prepend 44
+current list: 
+    prepend 49
+current list: 
+    prepend 81
+current list: 
+    get_at 5
+current list: value: None
+
+    prepend 20
+current list: 
+    clear
+current list: 
+    remove_at 1
+current list: 
+    get_last
+current list: value: None
+
+    insert 34 1
+current list: 
+    prepend 83
+current list: 
+    prepend 85
+current list: 
+    insert 52 3
+current list: 
+    get_first
+current list: value: None
+
+    remove_at 0
+current list: 
+    set_at 18 2
+current list: 
+    get_first
+current list: value: None
+
+    remove_at 1
+current list: 
+    get_last
+current list: value: None
+
+    append 57
+current list: 
+    insert 70 0
+current list: 
+    prepend 99
+current list: 
+    insert 22 2
+current list: 
+    append 92
+current list: 
+    append 77
+current list: 
+    remove_at 9
+current list: 
+    set_at 15 1
+current list: 
+    append 25
+current list: 
+    remove_at 0
+current list: 
+    get_first
+current list: value: None
+
+    insert 75 5
+current list: 
+    append 87
+current list: 
+    set_at 63 9
+current list: 
+    get_at 2
+current list: value: None
+
+    append 46
+current list: 
+    remove_at 5
+current list: 
+    get_last
+current list: value: None
+
+    get_first
+current list: value: None
+
+    get_at 1
+current list: value: None
+
+    append 93
+current list: 
+    set_at 77 1
+current list: 
+    prepend 83
+current list: 
+    get_first
+current list: value: None
+
+    append 86
+current list: 
+    remove_at 12
+current list: 
+    get_first
+current list: value: None
+
+    append 15
+current list: 
+    prepend 46
+current list: 
+    get_at 1
+current list: value: None
+
+    remove_at 5
+current list: 
+    clear
+current list: 
+    insert 10 0
+current list: 
+    get_first
+current list: value: None
+
+    get_last
+current list: value: None
+
+    get_last
+current list: value: None
+
+    insert 40 2
+current list: 
+    get_first
+current list: value: None
+
+    get_last
+current list: value: None
+
+    get_first
+current list: value: None
+
+    get_last
+current list: value: None
+
+    remove_at 4
+current list: 
+    remove_at 1
+current list: 
+    get_at 1
+current list: value: None
+
+    get_first
+current list: value: None
+
+    get_at 2
+current list: value: None
+
+    get_last
+current list: value: None
+
+    prepend 70
+current list: 
+    remove_at 2
+current list: 
+    set_at 77 0
+current list: 
+    get_last
+current list: value: None
+
+    get_at 1
+current list: value: None
+
+    remove_at 2
+current list: 
+    append 54
+current list: 
+    get_at 2
+current list: value: None
+
+    insert 90 1
+current list: 
+    get_at 3
+current list: value: None
+
+    append 55
+current list: 
+    get_last
+current list: value: None
+
+    prepend 40
+current list: 
+    get_last
+current list: value: None
+
+    get_first
+current list: value: None
+
+    set_at 93 1
+current list: 
+    set_at 88 5
+current list: 
+    insert 45 4
+current list: 
+    append 43
+current list: 
+    set_at 74 6
+current list: 
+    set_at 13 6
+current list: 
+    remove_at 0
+current list: 
+    insert 56 3
+current list: 
+    append 13
+current list: 
+    get_last
+current list: value: None
+
+    insert 78 1
+current list: 
+    insert 21 6
+current list: 
+    get_first
+current list: value: None
+
+    remove_at 7
+current list: 
+    remove_at 6
+current list: 
+    insert 54 3
+current list: 
+    prepend 72
+current list: 
+    remove_at 3
+current list: 
+    remove_at 7
+current list: 
+    set_at 40 2
+current list: 
+    get_last
+current list: value: None
+
+    append 41
+current list: 
+    set_at 42 2
+current list: 
+    get_first
+current list: value: None
+
+    get_last
+current list: value: None
+
+    prepend 62
+current list: 
+    get_at 7
+current list: value: None
+
+    prepend 31
+current list: 
+    set_at 59 4
+current list: 
+    set_at 23 7
+current list: 
+    get_first
+current list: value: None
+
+    append 52
+current list: 
+    set_at 51 8
+current list: 
+    insert 32 9
+current list: 
+    get_first
+current list: value: None
+
+    append 67
+current list: 
+    insert 17 0
+current list: 
+    get_last
+current list: value: None
+
+    append 76
+current list: 
+    append 78
+current list: 
+    set_at 48 17
+current list: 
+    append 99
+current list: 
+    insert 90 4
+current list: 
+    append 52
+current list: 
+    get_at 5
+current list: value: None
+
+    get_last
+current list: value: None
+
+    remove_at 20
+current list: 
+    append 18
+current list: 
+    remove_at 15
+current list: 
+    insert 56 16
+current list: 
+    get_last
+current list: value: None
+
+    get_last
+current list: value: None
+
+    insert 30 14
+current list: 
+    clear
+current list: 
+    append 73
+current list: 
+    get_first
+current list: value: None
+
+    remove_at 2
+current list: 
+    get_at 0
+current list: value: None
+
+    prepend 39
+current list: 
+    prepend 58
+current list: 
+    append 66
+current list: 
+    remove_at 3
+current list: 
+    prepend 75
+current list: 
+    set_at 57 1
+current list: 
+    get_at 2
+current list: value: None
+
+    set_at 47 2
+current list: 
+    append 70
+current list: 
+    get_first
+current list: value: None
+
+    get_first
+current list: value: None
+
+    set_at 78 1
+current list: 
+    get_last
+current list: value: None
+
+    get_first
+current list: value: None
+
+    set_at 68 4
+current list: 
+    insert 82 5
+current list: 
+    insert 76 3
+current list: 
+    prepend 31
+current list: 
+    append 58
+current list: 
+    get_last
+current list: value: None
+
+    get_at 7
+current list: value: None
+
+    clear
+current list: 
+    get_first
+current list: value: None
+
+    get_last
+current list: value: None
+
+    prepend 22
+current list: 
+    get_last
+current list: value: None
+
+    get_last
+current list: value: None
+
+    clear
+current list: 
+    get_at 2
+current list: value: None
+
+    insert 65 1
+current list: 
+    insert 11 1
+current list: 
+    prepend 42
+current list: 
+    get_first
+current list: value: None
+
+    remove_at 2
+current list: 
+    get_last
+current list: value: None
+
+    remove_at 4
+current list: 
+    prepend 31
+current list: 
+    get_first
+current list: value: None
+
+    get_last
+current list: value: None
+
+    prepend 17
+current list: 
+    get_last
+current list: value: None
+
+    get_at 0
+current list: value: None
+
+    get_last
+current list: value: None
+
+    get_at 2
+current list: value: None
+
+    get_last
+current list: value: None
+
+    remove_at 2
+current list: 
+    get_last
+current list: value: None
+
+    clear
+current list: 
+    append 66
+current list: 
+    remove_at 2
+current list: 
+    prepend 44
+current list: 
+    get_last
+current list: value: None
+
+    prepend 83
+current list: 
+    insert 67 2
+current list: 
+    insert 20 1
+current list: 
+    remove_at 5
+current list: 
+    set_at 96 1
+current list: 
+    prepend 77
+current list: 
+    append 31
+current list: 
+    get_last
+current list: value: None
+
+    remove_at 4
+current list: 
+    prepend 91
+current list: 
+    set_at 98 7
+current list: 
+    get_first
+current list: value: None
+
+    get_at 4
+current list: value: None
+
+    get_last
+current list: value: None
+
+    get_at 1
+current list: value: None
+
+    remove_at 3
+current list: 
+    get_at 6
+current list: value: None
+
+    get_last
+current list: value: None
+
+    set_at 14 0
+current list: 
+    get_last
+current list: value: None
+
+    clear
+current list: 
+    get_first
+current list: value: None
+
+    append 71
+current list: 
+    insert 84 0
+current list: 
+    set_at 50 2
+current list: 
+    prepend 76
+current list: 
+    get_last
+current list: value: None
+
+    prepend 71
+current list: 
+    prepend 63
+current list: 
+    prepend 43
+current list: 
+    get_last
+current list: value: None
+
+    prepend 87
+current list: 
+    get_first
+current list: value: None
+
+    insert 68 7
+current list: 
+    get_last
+current list: value: None
+
+    remove_at 8
+current list: 
+    append 91
+current list: 
+    append 31
+current list: 
+    insert 30 10
+current list: 
+    get_first
+current list: value: None
+
+    remove_at 2
+current list: 
+    append 86
+current list: 
+    set_at 70 12
+current list: 
+    remove_at 3
+current list: 
+    append 35
+current list: 
+    append 56
+current list: 
+    insert 38 2
+current list: 
+    append 73
+current list: 
+    get_last
+current list: value: None
+
+    append 29
+current list: 
+    prepend 41
+current list: 
+    insert 53 13
+current list: 
+    insert 39 4
+current list: 
+    get_at 7
+current list: value: None
+
+    insert 58 1
+current list: 
+    remove_at 17
+current list: 
+    remove_at 4
+current list: 
+    insert 33 1
+current list: 
+    set_at 70 10
+current list: 
+    append 57
+current list: 
+    remove_at 14
+current list: 
+    remove_at 3
+current list: 
+    prepend 45
+current list: 
+    insert 45 19
+current list: 
+    get_first
+current list: value: None
+
+    append 88
+current list: 
+    prepend 64
+current list: 
+    append 98
+current list: 
+    remove_at 14
+current list: 
+    clear
+current list: 
+    insert 86 1
+current list: 
+    insert 93 2
+current list: 
+    get_last
+current list: value: None
+
+    remove_at 0
+current list: 
+    get_last
+current list: value: None
+
+    prepend 84
+current list: 
+    remove_at 2
+current list: 
+    get_last
+current list: value: None
+
+    get_last
+current list: value: None
+
+    get_first
+current list: value: None
+
+    prepend 18
+current list: 
+    append 20
+current list: 
+    get_first
+current list: value: None
+
+    insert 18 2
+current list: 
+    get_last
+current list: value: None
+
+    remove_at 4
+current list: 
+    get_first
+current list: value: None
+
+    set_at 11 0
+current list: 
+    get_at 0
+current list: value: None
+
+    remove_at 2
+current list: 
+    prepend 99
+current list: 
+    prepend 97
+current list: 
+    remove_at 2
+current list: 
+    insert 64 2
+current list: 
+    set_at 66 3
+current list: 
+    prepend 59
+current list: 
+    get_last
+current list: value: None
+
+    get_last
+current list: value: None
+
+    prepend 94
+current list: 
+    prepend 67
+current list: 
+    prepend 47
+current list: 
+    get_first
+current list: value: None
+
+    set_at 49 8
+current list: 
+    insert 62 3
+current list: 
+    remove_at 0
+current list: 
+    insert 39 7
+current list: 
+    set_at 38 6
+current list: 
+    insert 81 8
+current list: 
+    insert 13 6
+current list: 
+    insert 36 1
+current list: 
+    remove_at 2
+current list: 
+    prepend 73
+current list: 
+    get_last
+current list: value: None
+
+    remove_at 7
+current list: 
+    get_at 1
+current list: value: None
+
+    insert 83 9
+current list: 
+    get_at 10
+current list: value: None
+
+    insert 74 3
+current list: 
+    get_at 15
+current list: value: None
+
+    insert 70 1
+current list: 
+    set_at 65 11
+current list: 
+    remove_at 0
+current list: 
+    append 20
+current list: 
+    get_first
+current list: value: None
+
+    remove_at 2
+current list: 
+    get_at 12
+current list: value: None
+
+    get_first
+current list: value: None
+
+    get_last
+current list: value: None
+
+    set_at 14 8
+current list: 
+    prepend 45
+current list: 
+    insert 59 13
+current list: 
+    set_at 68 16
+current list: 
+    set_at 71 16
+current list: 
+    insert 68 8
+current list: 
+    append 97
+current list: 
+    set_at 32 6
+current list: 
+    remove_at 8
+current list: 
+    remove_at 0
+current list: 
+    remove_at 5
+current list: 
+    remove_at 7
+current list: 
+    set_at 45 13
+current list: 
+    set_at 36 3
+current list: 
+    append 21
+current list: 
+    insert 44 9
+current list: 
+    prepend 58
+current list: 
+    clear
+current list: 
+    insert 14 0
+current list: 
+    get_at 3
+current list: value: None
+
+    append 75
+current list: 
+    get_first
+current list: value: None
+
+    get_last
+current list: value: None
+
+    set_at 56 2
+current list: 
+    remove_at 4
+current list: 
+    clear
+current list: 
+    get_first
+current list: value: None
+
+    get_at 0
+current list: value: None
+
+    set_at 15 1
+current list: 
+    remove_at 1
+current list: 
+    get_last
+current list: value: None
+
+    prepend 63
+current list: 
+    get_first
+current list: value: None
+
+    new int
+current list: 
+    insert_ordered 15
+current list: 
+    insert_ordered 25
+current list: 
+    insert_ordered 13
+current list: 
+    insert_ordered 11
+current list: 
+    insert_ordered 13
+current list: 
+    insert_ordered 13
+current list: 
+    insert_ordered 10
+current list: 
+    insert_ordered 16
+current list: 
+    insert_ordered 11
+current list: 
+    insert_ordered 27
+current list: 
+    insert_ordered 13
+current list: 
+    insert_ordered 11
+current list: 
+    insert_ordered 28
+current list: 
+    insert_ordered 12
+current list: 
+    insert_ordered 28
+current list: 
+    insert_ordered 13
+current list: 
+    insert_ordered 29
+current list: 
+    insert_ordered 13
+current list: 
+    insert_ordered 13
+current list: 
+    insert_ordered 21
+current list: 
+    new int
+current list: 
+    insert_ordered 13
+current list: 
+    insert_ordered 30
+current list: 
+    insert_ordered 27
+current list: 
+    insert_ordered 20
+current list: 
+    insert_ordered 19
+current list: 
+    insert_ordered 19
+current list: 
+    insert_ordered 12
+current list: 
+    insert_ordered 25
+current list: 
+    insert_ordered 20
+current list: 
+    insert_ordered 25
+current list: 
+    insert_ordered 23
+current list: 
+    insert_ordered 18
+current list: 
+    insert_ordered 13
+current list: 
+    insert_ordered 12
+current list: 
+    insert_ordered 11
+current list: 
+    insert_ordered 21
+current list: 
+    insert_ordered 14
+current list: 
+    insert_ordered 10
+current list: 
+    insert_ordered 11
+current list: 
+    insert_ordered 29
+current list: 
+    clear
+current list: 
+    insert 47 0
+current list: 
+    insert 83 1
+current list: 
+    insert 64 3
+current list: 
+    insert 91 3
+current list: 
+    insert 23 0
+current list: 
+    insert 81 3
+current list: 
+    insert 42 4
+current list: 
+    insert 49 0
+current list: 
+    insert 42 3
+current list: 
+    insert 56 6
+current list: 
+    insert 20 12
+current list: 
+    insert 86 4
+current list: 
+    insert 49 9
+current list: 
+    insert 58 15
+current list: 
+    insert 73 3
+current list: 
+    insert 20 14
+current list: 
+    insert 12 11
+current list: 
+    insert 99 5
+current list: 
+    insert 26 20
+current list: 
+    insert 72 16
+current list: 
+    sort
+current list: 
+    clear
+current list: 
+    insert 57 0
+current list: 
+    insert 10 3
+current list: 
+    insert 31 4
+current list: 
+    insert 82 1
+current list: 
+    insert 19 3
+current list: 
+    insert 33 3
+current list: 
+    insert 86 4
+current list: 
+    insert 87 0
+current list: 
+    insert 40 1
+current list: 
+    insert 64 2
+current list: 
+    insert 17 0
+current list: 
+    insert 74 11
+current list: 
+    insert 14 14
+current list: 
+    insert 22 14
+current list: 
+    insert 72 2
+current list: 
+    insert 81 16
+current list: 
+    insert 33 11
+current list: 
+    insert 86 17
+current list: 
+    insert 27 11
+current list: 
+    insert 41 1
+current list: 
+    insert_ordered 24
+current list: 
+    insert 56 1
+current list: 
+    insert 90 1
+current list: 
+    insert 99 0
+current list: 
+    insert 97 0
+current list: 
+    insert 99 0
+current list: 
+    insert 26 1
+current list: 
+    insert 70 4
+current list: 
+    insert 74 9
+current list: 
+    insert 95 7
+current list: 
+    insert 62 11
+current list: 
+    insert 78 8
+current list: 
+    insert 82 8
+current list: 
+    insert 41 14
+current list: 
+    insert 76 3
+current list: 
+    insert 96 10
+current list: 
+    insert 56 8
+current list: 
+    insert 69 14
+current list: 
+    insert 50 2
+current list: 
+    insert 96 3
+current list: 
+    insert 27 3
+current list: 
+    insert_ordered 16
+current list: 
+    new int
+current list: 
+    prepend 23
+current list: 
+    prepend 23
+current list: 
+    prepend 86
+current list: 
+    prepend 26
+current list: 
+    prepend 73
+current list: 
+    prepend 38
+current list: 
+    prepend 96
+current list: 
+    prepend 82
+current list: 
+    prepend 95
+current list: 
+    prepend 91
+current list: 
+    prepend 16
+current list: 
+    prepend 29
+current list: 
+    prepend 21
+current list: 
+    prepend 44
+current list: 
+    prepend 33
+current list: 
+    prepend 76
+current list: 
+    prepend 13
+current list: 
+    prepend 39
+current list: 
+    prepend 10
+current list: 
+    prepend 43
+current list: 
+    prepend 78
+current list: 
+    prepend 65
+current list: 
+    prepend 74
+current list: 
+    prepend 34
+current list: 
+    prepend 85
+current list: 
+    prepend 52
+current list: 
+    prepend 83
+current list: 
+    prepend 34
+current list: 
+    prepend 93
+current list: 
+    prepend 41
+current list: 
+    prepend 28
+current list: 
+    prepend 44
+current list: 
+    find 22
+current list: index of value: None | value at index: None
+
+    find 11
+current list: index of value: None | value at index: None
+
+    find 21
+current list: index of value: None | value at index: None
+
+    find 21
+current list: index of value: None | value at index: None
+
+    find 23
+current list: index of value: None | value at index: None
+
+    find 14
+current list: index of value: None | value at index: None
+
+    find 27
+current list: index of value: None | value at index: None
+
+    find 29
+current list: index of value: None | value at index: None
+
+    find 15
+current list: index of value: None | value at index: None
+
+    find 19
+current list: index of value: None | value at index: None
+
+    remove_value 10
+current list: 
+    remove_value 22
+current list: 
+    remove_value 24
+current list: 
+    remove_value 18
+current list: 
+    remove_value 29
+current list: 
+    remove_value 20
+current list: 
+    remove_value 29
+current list: 
+    remove_value 12
+current list: 
+    remove_value 21
+current list: 
+    remove_value 22
+current list: 
+    clear
+current list: 
+    insert_ordered 29
+current list: 
+    insert_ordered 18
+current list: 
+    insert_ordered 28
+current list: 
+    insert_ordered 13
+current list: 
+    insert_ordered 22
+current list: 
+    insert_ordered 29
+current list: 
+    insert_ordered 28
+current list: 
+    insert_ordered 14
+current list: 
+    insert_ordered 13
+current list: 
+    insert_ordered 10
+current list: 
+    insert_ordered 19
+current list: 
+    insert_ordered 18
+current list: 
+    insert_ordered 24
+current list: 
+    insert_ordered 24
+current list: 
+    insert_ordered 21
+current list: 
+    insert_ordered 23
+current list: 
+    insert_ordered 22
+current list: 
+    insert_ordered 21
+current list: 
+    insert_ordered 12
+current list: 
+    insert_ordered 30
+current list: 
+    insert_ordered 29
+current list: 
+    insert_ordered 23
+current list: 
+    insert_ordered 18
+current list: 
+    insert_ordered 11
+current list: 
+    insert_ordered 27
+current list: 
+    insert_ordered 16
+current list: 
+    insert_ordered 28
+current list: 
+    insert_ordered 13
+current list: 
+    insert_ordered 15
+current list: 
+    insert_ordered 15
+current list: 
+    insert_ordered 29
+current list: 
+    insert_ordered 25
+current list: 
+    find 13
+current list: index of value: None | value at index: None
+
+    find 25
+current list: index of value: None | value at index: None
+
+    find 26
+current list: index of value: None | value at index: None
+
+    find 22
+current list: index of value: None | value at index: None
+
+    find 25
+current list: index of value: None | value at index: None
+
+    find 16
+current list: index of value: None | value at index: None
+
+    find 24
+current list: index of value: None | value at index: None
+
+    find 13
+current list: index of value: None | value at index: None
+
+    find 30
+current list: index of value: None | value at index: None
+
+    find 28
+current list: index of value: None | value at index: None
+
+    remove_value 21
+current list: 
+    remove_value 26
+current list: 
+    remove_value 23
+current list: 
+    remove_value 21
+current list: 
+    remove_value 10
+current list: 
+    remove_value 28
+current list: 
+    remove_value 10
+current list: 
+    remove_value 26
+current list: 
+    remove_value 24
+current list: 
+    remove_value 28
+current list: 
+    insert 11 1
+current list: 
+    insert 33 11
+current list: 
+    insert 73 20
+current list: 
+    insert 84 9
+current list: 
+    insert 84 28
+current list: 
+    insert 49 10
+current list: 
+    insert 77 13
+current list: 
+    insert 96 29
+current list: 
+    insert 10 21
+current list: 
+    insert 66 13
+current list: 
+    insert 69 12
+current list: 
+    insert 79 13
+current list: 
+    insert 17 2
+current list: 
+    insert 42 22
+current list: 
+    insert 14 32
+current list: 
+    insert 17 18
+current list: 
+    insert 37 40
+current list: 
+    insert 45 28
+current list: 
+    insert 47 26
+current list: 
+    insert 82 8
+current list: 
+    insert 13 42
+current list: 
+    insert 62 15
+current list: 
+    insert 30 31
+current list: 
+    insert 31 39
+current list: 
+    insert 69 33
+current list: 
+    insert 42 5
+current list: 
+    insert 36 36
+current list: 
+    insert 56 6
+current list: 
+    insert 87 27
+current list: 
+    insert 63 16
+current list: 
+    insert 93 39
+current list: 
+    insert 70 48
+current list: 
+    find 22
+current list: index of value: None | value at index: None
+
+    find 17
+current list: index of value: None | value at index: None
+
+    find 11
+current list: index of value: None | value at index: None
+
+    find 15
+current list: index of value: None | value at index: None
+
+    find 28
+current list: index of value: None | value at index: None
+
+    find 26
+current list: index of value: None | value at index: None
+
+    find 25
+current list: index of value: None | value at index: None
+
+    find 26
+current list: index of value: None | value at index: None
+
+    find 24
+current list: index of value: None | value at index: None
+
+    find 25
+current list: index of value: None | value at index: None
+
+    remove_value 29
+current list: 
+    remove_value 23
+current list: 
+    remove_value 24
+current list: 
+    remove_value 23
+current list: 
+    remove_value 19
+current list: 
+    remove_value 14
+current list: 
+    remove_value 26
+current list: 
+    remove_value 22
+current list: 
+    remove_value 12
+current list: 
+    remove_value 23
+current list: 
