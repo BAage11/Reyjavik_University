@@ -1,6 +1,6 @@
 # Þróun smáforrita (e. Application Development)
 
-A video presentation of the final product for MAPP_3:
+A video presentation of the final product for MAPP_3:<br>
 https://youtu.be/fFcLQ5kg_Sw
 
 --------------------------------------------------------------------
