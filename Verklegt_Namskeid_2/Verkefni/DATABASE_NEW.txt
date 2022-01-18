@@ -1,0 +1,1040 @@
+
+################################################################
+
+INSERT INTO "RealEstate_realestates"(street, size, bedrooms, bathrooms, type, price, on_sale, more_info, main_image, employee_id, zip_code_id)
+VALUES ('Aðalstræti 9', 494, 4, 3, 'Single Family Home', '41.000.000', True, 'Custom built by James T. Adams for his son Charles in 1893. Through the years have given special attention to preserving the authenticity of the home. Beautiful wood accents and a stately foyer and staircase. Inviting front porch and second floor master private porch to enjoy those summer evenings and parades.', 'https://ap.rdcpix.com/501249924/c7fa00bf2498597ae60a8cd66e148001l-m0xd-w1020_h770_q80.jpg', 21, 200);
+
+INSERT INTO "RealEstate_realestates"(street, size, bedrooms, bathrooms, type, price, on_sale, more_info, main_image, employee_id, zip_code_id)
+VALUES('Suðurhólar 35', 344, 4, 3, 'Single Family Home', '160.000.000', True, 'This vintage Victorian landmark is distinguished by its recent designation. Built in 1881 by renowned San Francisco builder David Hewes, the stately residence featuring a classic wrap around porch & decorative ornamentation unique to its bygone origins is constructed of old growth redwood & handmade square cut iron nails. Frosted glass front doors open to a formal entry & gracious interior boasting 12-foot ceilings, original plate glass windows, wood floors, authentic paint finishes & remarkable decorative detail. The remodeled kitchen with nook showcases beautiful floor to ceiling custom cabinetry & stainless-steel appliances. Upstairs, 4 bedrooms include a spacious master suite with large walk-in closet.', 'https://ap.rdcpix.com/375584065/8142f5e6f43344035a98d9240c9716f8l-m0xd-w1020_h770_q80.jpg', 19, 800);
+
+INSERT INTO "RealEstate_realestates"(street, size, bedrooms, bathrooms, type, price, on_sale, more_info, main_image, employee_id, zip_code_id)
+VALUES('Reiðvegur 11', 89, 4, 4, 'Single Family Home', '57.500.000', True, 'A rare opportunity to own a home on the National Register of Historic Places! Beautiful treed .89 ac lot! Built in the late 1800s, the charm & stories of long ago echo throughout while updates & thoughtful changes provide todays amenities. A 3-car garage has been added w/workshop & studio apartment. Entertain on the wrap-around veranda! Orig heart pine flooring throughout. Fab kit & sep breakfast or morning rm. LOVE the Master (down) w/redesigned, updated BA. Storage! Town Square just steps away.', 'https://ap.rdcpix.com/110891292/7a8915e341b4cfbb86265fe4c2a73443l-m0xd-w1020_h770_q80.jpg', 22, 400);
+
+INSERT INTO "RealEstate_realestates"(street, size, bedrooms, bathrooms, type, price, on_sale, more_info, main_image, employee_id, zip_code_id)
+VALUES('Vesturstræti 42', 'Unknown', 5, 4, 'Single Family Home', '67.500.000', True, 'Hyde Parks Jewel! Custom Built in 1889 for KC Mayor George Shelley.Italianate & Queen Anne Vernacular Style of 20th Century. On the National Register of Historic Places..Magnificent Leaded Art Glass. Finely Detailed Cherry & Oak Mantles, Bannister, wood work & brass hardware thru-out.Original working transoms & pocket doors. Features 10.5 ft. ceilings & Rewired Antique Chandeliers. Kitchen features reproduction period convection stove.New timberline roof, electrical, plumbing, Zoned AC heat-pump & Steam heat.', 'https://ap.rdcpix.com/620254095/9de371f96a9117c9be7516ff92ad7261l-m0xd-w1020_h770_q80.jpg', 20, 101);
+
+INSERT INTO "RealEstate_realestates"(street, size, bedrooms, bathrooms, type, price, on_sale, more_info, main_image, employee_id, zip_code_id)
+VALUES('Fögruakrar 29', 624, 6, 6, 'Single Family Home', '120.000.000', True, 'Extraordinary James Baxter House located on National Register of Historic Places built in 1803, expanded, renovated, and extensively updated. Fabulous opportunity to become the next steward of this Cincinnati treasure. Original walnut and cherry moldings, beautiful hardwood. 5+ room charming guest house. 2.6 acres of beautifully manicured grounds.', 'https://ap.rdcpix.com/753545821/7d8ace527b485ebfc10c3b8655cdba46l-m0xd-w1020_h770_q80.jpg', 23, 600);
+
+INSERT INTO "RealEstate_realestates"(street, size, bedrooms, bathrooms, type, price, on_sale, more_info, main_image, employee_id, zip_code_id)
+VALUES('Vonarvegur 7', 891, 6, 2, 'Single Family Home', '195.000.000', True, 'Welcome to The Mansion! Completely renovated, this magnificent structure is truly unique. The creamy stucco finish, lush landscape and beautiful paver stones invite you in to this elegant building. Enter through the french doors to be wowed by all of its beautiful details. Marble flooring, ornate fireplaces, decorative lighting, extensive molding and woodwork are just some of what is surely to impress. The Mansion is listed on the National Register of Historic Places and is located in the Flemington business district. Its present use is a state of the art office building with several offices, conference rooms and a generous parking lot. There is an additional 2128 square foot building on the property that could potentially be another rental.', 'https://ap.rdcpix.com/2116928784/9699ea778c23d31dfef1d6903660cdefl-m0xd-w1020_h770_q80.jpg', 19, 500);
+
+INSERT INTO "RealEstate_realestates"(street, size, bedrooms, bathrooms, type, price, on_sale, more_info, main_image, employee_id, zip_code_id)
+VALUES('Skógargata 32', 658, 5, 5, 'Single Family Home', '50.000.000', True, 'This elegant Queen Anne style home was built in 1865 and is on the National Register of Historic Places. Known as the Frank B. Whiting Home. With over 6500 sq. ft. of both formal and informal spaces for you to enjoy. This 3 story home has been updated to preserve the character but feature the necessary elements for todays buyer. Located conveniently on Doty Island. Close to restaurants, shopping and downtown Neenah. Heating and Cooling equals Hot Water.', 'https://ap.rdcpix.com/1092539459/9c5217473503a8b0ee3505023518f417l-m0xd-w1020_h770_q80.jpg', 21, 860);
+
+INSERT INTO "RealEstate_realestates"(street, size, bedrooms, bathrooms, type, price, on_sale, more_info, main_image, employee_id, zip_code_id)
+VALUES('Kreppuvegur 10', 480, 7, 6, 'Single Family Home', '185.000.000', True, 'Built in 1881, Aufenthalt is a significant shingle style home in the Kay-Catherine area of Newport. The exterior of the original house was light-colored, sanded stucco contrasting with both wood trim and shingling. The rambling style buildings exhibited beautiful craftsmanship and always had a connection to the outdoors. This is evident today after the present owner completed both the interior and exterior restoration. The 3rd floor level may provide a large 1200 sf innkeepers unit. The home has 7 bedrooms, 5-1/2 baths, exquisite period details throughout, a large yard to entertain, and a 3-car garage.', 'https://ap.rdcpix.com/1678260231/b16bbdb5909a2736626af4ac7c02c2c0l-m0xd-w1020_h770_q80.jpg', 23, 600);
+
+INSERT INTO "RealEstate_realestates"(street, size, bedrooms, bathrooms, type, price, on_sale, more_info, main_image, employee_id, zip_code_id)
+VALUES('Sumarvegur 56', 407, 4, 5, 'Single Family Home', '79.500.000', True, 'Gorgeous historic home for the most discerning buyer. Beautiful grounds surround this completely restored Charleston Single Style home in Summervilles most prestigious historic area where streets wind gracefully around ancient trees. Double piazzas, original heart pine floors, heavy moldings, substantial staircases, huge windows with original glass, 5 fireplaces, soaring ceilings and a quiet elegance await you in this magnificent home. Spacious rooms flow easily off the grand entrance. This is a rare find - dont miss it.', 'https://ap.rdcpix.com/1334509502/325c963ed527941afe0e6e3a4c5b13efl-m0xd-w1020_h770_q80.jpg', 22, 200);
+
+
+################################################################
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/501249924/c7fa00bf2498597ae60a8cd66e148001l-m0xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1319947200/c7fa00bf2498597ae60a8cd66e148001l-m1xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/529537392/c7fa00bf2498597ae60a8cd66e148001l-m2xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/585135195/c7fa00bf2498597ae60a8cd66e148001l-m4xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2133187285/c7fa00bf2498597ae60a8cd66e148001l-m6xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/451612005/c7fa00bf2498597ae60a8cd66e148001l-m7xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/630901527/c7fa00bf2498597ae60a8cd66e148001l-m8xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/272772046/c7fa00bf2498597ae60a8cd66e148001l-m9xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/449349009/c7fa00bf2498597ae60a8cd66e148001l-m15xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1770945604/c7fa00bf2498597ae60a8cd66e148001l-m16xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/383758964/c7fa00bf2498597ae60a8cd66e148001l-m20xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/754817579/c7fa00bf2498597ae60a8cd66e148001l-m22xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1394658100/c7fa00bf2498597ae60a8cd66e148001l-m23xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2034823415/c7fa00bf2498597ae60a8cd66e148001l-m25xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/703799761/c7fa00bf2498597ae60a8cd66e148001l-m26xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/997520191/c7fa00bf2498597ae60a8cd66e148001l-m27xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/853991024/c7fa00bf2498597ae60a8cd66e148001l-m29xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1609394758/c7fa00bf2498597ae60a8cd66e148001l-m30xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1561345597/c7fa00bf2498597ae60a8cd66e148001l-m31xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/5396039/c7fa00bf2498597ae60a8cd66e148001l-m32xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/850443688/c7fa00bf2498597ae60a8cd66e148001l-m33xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1060664621/c7fa00bf2498597ae60a8cd66e148001l-m34xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/896720498/c7fa00bf2498597ae60a8cd66e148001l-m35xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1435370691/c7fa00bf2498597ae60a8cd66e148001l-m36xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/683288024/c7fa00bf2498597ae60a8cd66e148001l-m37xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1041453157/c7fa00bf2498597ae60a8cd66e148001l-m38xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2076873623/c7fa00bf2498597ae60a8cd66e148001l-m39xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1512685106/c7fa00bf2498597ae60a8cd66e148001l-m41xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/473704645/c7fa00bf2498597ae60a8cd66e148001l-m43xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/347317725/c7fa00bf2498597ae60a8cd66e148001l-m45xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/146734690/c7fa00bf2498597ae60a8cd66e148001l-m46xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1633133942/c7fa00bf2498597ae60a8cd66e148001l-m47xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/284334357/c7fa00bf2498597ae60a8cd66e148001l-m48xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/638836426/c7fa00bf2498597ae60a8cd66e148001l-m49xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/177552827/c7fa00bf2498597ae60a8cd66e148001l-m51xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1316177686/c7fa00bf2498597ae60a8cd66e148001l-m52xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/516997919/c7fa00bf2498597ae60a8cd66e148001l-m53xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/214061059/c7fa00bf2498597ae60a8cd66e148001l-m55xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2023892113/c7fa00bf2498597ae60a8cd66e148001l-m56xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/723610407/c7fa00bf2498597ae60a8cd66e148001l-m59xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/918491695/c7fa00bf2498597ae60a8cd66e148001l-m60xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/810660943/c7fa00bf2498597ae60a8cd66e148001l-m61xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1834104296/c7fa00bf2498597ae60a8cd66e148001l-m63xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/374511249/c7fa00bf2498597ae60a8cd66e148001l-m64xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/260558566/c7fa00bf2498597ae60a8cd66e148001l-m65xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/364434790/c7fa00bf2498597ae60a8cd66e148001l-m66xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/323227695/c7fa00bf2498597ae60a8cd66e148001l-m70xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1393582585/c7fa00bf2498597ae60a8cd66e148001l-m71xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/482531350/c7fa00bf2498597ae60a8cd66e148001l-m73xd-w1020_h770_q80.jpg', 2);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1126487394/c7fa00bf2498597ae60a8cd66e148001l-m74xd-w1020_h770_q80.jpg', 2);
+
+###############################################################
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/375584065/8142f5e6f43344035a98d9240c9716f8l-m0xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1813477065/8142f5e6f43344035a98d9240c9716f8l-m1xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1117603275/8142f5e6f43344035a98d9240c9716f8l-m2xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1318285358/8142f5e6f43344035a98d9240c9716f8l-m3xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1275502279/8142f5e6f43344035a98d9240c9716f8l-m4xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/513423726/8142f5e6f43344035a98d9240c9716f8l-m6xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1461262583/8142f5e6f43344035a98d9240c9716f8l-m7xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1925526058/8142f5e6f43344035a98d9240c9716f8l-m8xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1437883082/8142f5e6f43344035a98d9240c9716f8l-m9xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/640626900/8142f5e6f43344035a98d9240c9716f8l-m10xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/888590084/8142f5e6f43344035a98d9240c9716f8l-m11xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/156438990/8142f5e6f43344035a98d9240c9716f8l-m12xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/301656506/8142f5e6f43344035a98d9240c9716f8l-m13xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1288191495/8142f5e6f43344035a98d9240c9716f8l-m14xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1372860935/8142f5e6f43344035a98d9240c9716f8l-m15xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1431451070/8142f5e6f43344035a98d9240c9716f8l-m16xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1823548834/8142f5e6f43344035a98d9240c9716f8l-m17xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1596285664/8142f5e6f43344035a98d9240c9716f8l-m18xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1115995669/8142f5e6f43344035a98d9240c9716f8l-m19xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/884656530/8142f5e6f43344035a98d9240c9716f8l-m20xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1617926336/8142f5e6f43344035a98d9240c9716f8l-m21xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1880571965/8142f5e6f43344035a98d9240c9716f8l-m22xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1281830358/8142f5e6f43344035a98d9240c9716f8l-m23xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/367484235/8142f5e6f43344035a98d9240c9716f8l-m24xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1005427264/8142f5e6f43344035a98d9240c9716f8l-m25xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/634439035/8142f5e6f43344035a98d9240c9716f8l-m26xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/739446315/8142f5e6f43344035a98d9240c9716f8l-m27xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1671638932/8142f5e6f43344035a98d9240c9716f8l-m28xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/470849554/8142f5e6f43344035a98d9240c9716f8l-m29xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1835399022/8142f5e6f43344035a98d9240c9716f8l-m30xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/144231287/8142f5e6f43344035a98d9240c9716f8l-m31xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/755168036/8142f5e6f43344035a98d9240c9716f8l-m32xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1170715419/8142f5e6f43344035a98d9240c9716f8l-m33xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1633033993/8142f5e6f43344035a98d9240c9716f8l-m34xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2049422962/8142f5e6f43344035a98d9240c9716f8l-m35xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1446382399/8142f5e6f43344035a98d9240c9716f8l-m36xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1615688765/8142f5e6f43344035a98d9240c9716f8l-m37xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1758157290/8142f5e6f43344035a98d9240c9716f8l-m38xd-w1020_h770_q80.jpg', 3);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1163169290/8142f5e6f43344035a98d9240c9716f8l-m39xd-w1020_h770_q80.jpg', 3);
+
+###############################################################
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/110891292/7a8915e341b4cfbb86265fe4c2a73443l-m0xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1461603452/7a8915e341b4cfbb86265fe4c2a73443l-m1xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/240137463/7a8915e341b4cfbb86265fe4c2a73443l-m2xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1511819210/7a8915e341b4cfbb86265fe4c2a73443l-m3xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1024344924/7a8915e341b4cfbb86265fe4c2a73443l-m4xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1594778867/7a8915e341b4cfbb86265fe4c2a73443l-m5xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/109715537/7a8915e341b4cfbb86265fe4c2a73443l-m6xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1926663389/7a8915e341b4cfbb86265fe4c2a73443l-m7xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1385071134/7a8915e341b4cfbb86265fe4c2a73443l-m8xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1807469098/7a8915e341b4cfbb86265fe4c2a73443l-m9xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1165975142/7a8915e341b4cfbb86265fe4c2a73443l-m10xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/20425015/7a8915e341b4cfbb86265fe4c2a73443l-m11xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1380585776/7a8915e341b4cfbb86265fe4c2a73443l-m12xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/303290363/7a8915e341b4cfbb86265fe4c2a73443l-m13xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/164056478/7a8915e341b4cfbb86265fe4c2a73443l-m14xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1243679863/7a8915e341b4cfbb86265fe4c2a73443l-m15xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1010811932/7a8915e341b4cfbb86265fe4c2a73443l-m16xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1535710901/7a8915e341b4cfbb86265fe4c2a73443l-m17xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/370153996/7a8915e341b4cfbb86265fe4c2a73443l-m18xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/517258093/7a8915e341b4cfbb86265fe4c2a73443l-m19xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/951832513/7a8915e341b4cfbb86265fe4c2a73443l-m20xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1000599231/7a8915e341b4cfbb86265fe4c2a73443l-m21xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/982408741/7a8915e341b4cfbb86265fe4c2a73443l-m22xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1194979319/7a8915e341b4cfbb86265fe4c2a73443l-m23xd-w1020_h770_q80.jpg', 4);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/435186473/7a8915e341b4cfbb86265fe4c2a73443l-m24xd-w1020_h770_q80.jpg', 4);
+
+##################################################################
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/620254095/9de371f96a9117c9be7516ff92ad7261l-m0xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/923637857/9de371f96a9117c9be7516ff92ad7261l-m1xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2084920408/9de371f96a9117c9be7516ff92ad7261l-m2xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1319489486/9de371f96a9117c9be7516ff92ad7261l-m3xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1898640834/9de371f96a9117c9be7516ff92ad7261l-m4xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/878022483/9de371f96a9117c9be7516ff92ad7261l-m5xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1315503778/9de371f96a9117c9be7516ff92ad7261l-m6xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1799214793/9de371f96a9117c9be7516ff92ad7261l-m8xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/995968177/9de371f96a9117c9be7516ff92ad7261l-m9xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1899339696/9de371f96a9117c9be7516ff92ad7261l-m10xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1970514471/9de371f96a9117c9be7516ff92ad7261l-m11xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/317428573/9de371f96a9117c9be7516ff92ad7261l-m12xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1477244209/9de371f96a9117c9be7516ff92ad7261l-m13xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/756512806/9de371f96a9117c9be7516ff92ad7261l-m14xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1801388840/9de371f96a9117c9be7516ff92ad7261l-m15xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/822155654/9de371f96a9117c9be7516ff92ad7261l-m16xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/337359089/9de371f96a9117c9be7516ff92ad7261l-m18xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1672535127/9de371f96a9117c9be7516ff92ad7261l-m19xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1801739118/9de371f96a9117c9be7516ff92ad7261l-m20xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1559872839/9de371f96a9117c9be7516ff92ad7261l-m21xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/872728446/9de371f96a9117c9be7516ff92ad7261l-m22xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/660822201/9de371f96a9117c9be7516ff92ad7261l-m23xd-w1020_h770_q80.jpg', 5);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/173560242/9de371f96a9117c9be7516ff92ad7261l-m24xd-w1020_h770_q80.jpg', 5);
+
+#############################################################
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/753545821/7d8ace527b485ebfc10c3b8655cdba46l-m0xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1597421398/7d8ace527b485ebfc10c3b8655cdba46l-m1xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2457586732/7d8ace527b485ebfc10c3b8655cdba46l-m2xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1453235221/7d8ace527b485ebfc10c3b8655cdba46l-m3xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/743743895/7d8ace527b485ebfc10c3b8655cdba46l-m4xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/233084779/7d8ace527b485ebfc10c3b8655cdba46l-m5xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/146782470/7d8ace527b485ebfc10c3b8655cdba46l-m6xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2560030735/7d8ace527b485ebfc10c3b8655cdba46l-m7xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1967997192/7d8ace527b485ebfc10c3b8655cdba46l-m8xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/3501338378/7d8ace527b485ebfc10c3b8655cdba46l-m9xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1202574675/7d8ace527b485ebfc10c3b8655cdba46l-m10xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/3265169480/7d8ace527b485ebfc10c3b8655cdba46l-m11xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/3823182323/7d8ace527b485ebfc10c3b8655cdba46l-m12xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/3222069061/7d8ace527b485ebfc10c3b8655cdba46l-m13xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1032749848/7d8ace527b485ebfc10c3b8655cdba46l-m14xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1219952105/7d8ace527b485ebfc10c3b8655cdba46l-m15xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2402932502/7d8ace527b485ebfc10c3b8655cdba46l-m16xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/654039343/7d8ace527b485ebfc10c3b8655cdba46l-m17xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/3682594326/7d8ace527b485ebfc10c3b8655cdba46l-m18xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2180577448/7d8ace527b485ebfc10c3b8655cdba46l-m20xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/4277232154/7d8ace527b485ebfc10c3b8655cdba46l-m21xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/3925831797/7d8ace527b485ebfc10c3b8655cdba46l-m22xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1513456697/7d8ace527b485ebfc10c3b8655cdba46l-m23xd-w1020_h770_q80.jpg', 6);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2351410947/7d8ace527b485ebfc10c3b8655cdba46l-m24xd-w1020_h770_q80.jpg', 6);
+
+##########################################################################
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2116928784/9699ea778c23d31dfef1d6903660cdefl-m0xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/3042819084/9699ea778c23d31dfef1d6903660cdefl-m1xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1021950391/9699ea778c23d31dfef1d6903660cdefl-m2xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2946615314/9699ea778c23d31dfef1d6903660cdefl-m3xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1994779297/9699ea778c23d31dfef1d6903660cdefl-m5xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2496601695/9699ea778c23d31dfef1d6903660cdefl-m6xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1393601375/9699ea778c23d31dfef1d6903660cdefl-m7xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1722519875/9699ea778c23d31dfef1d6903660cdefl-m8xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2146124628/9699ea778c23d31dfef1d6903660cdefl-m9xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/263527540/9699ea778c23d31dfef1d6903660cdefl-m10xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/542423886/9699ea778c23d31dfef1d6903660cdefl-m11xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2301111565/9699ea778c23d31dfef1d6903660cdefl-m12xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/3158870475/9699ea778c23d31dfef1d6903660cdefl-m13xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/411115592/9699ea778c23d31dfef1d6903660cdefl-m14xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2010647626/9699ea778c23d31dfef1d6903660cdefl-m15xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/3648063695/9699ea778c23d31dfef1d6903660cdefl-m16xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2853010702/9699ea778c23d31dfef1d6903660cdefl-m17xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1909293621/9699ea778c23d31dfef1d6903660cdefl-m18xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/415446563/9699ea778c23d31dfef1d6903660cdefl-m19xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/3851924508/9699ea778c23d31dfef1d6903660cdefl-m20xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/3535538719/9699ea778c23d31dfef1d6903660cdefl-m21xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2168036813/9699ea778c23d31dfef1d6903660cdefl-m22xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1064323758/9699ea778c23d31dfef1d6903660cdefl-m23xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1184161581/9699ea778c23d31dfef1d6903660cdefl-m24xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2605212316/9699ea778c23d31dfef1d6903660cdefl-m25xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/4114561322/9699ea778c23d31dfef1d6903660cdefl-m26xd-w1020_h770_q80.jpg', 7);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2116928784/9699ea778c23d31dfef1d6903660cdefl-m27xd-w1020_h770_q80.jpg', 7);
+
+##########################################################################
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1092539459/9c5217473503a8b0ee3505023518f417l-m0xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/378723437/9c5217473503a8b0ee3505023518f417l-m1xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1112825516/9c5217473503a8b0ee3505023518f417l-m2xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1986104795/9c5217473503a8b0ee3505023518f417l-m3xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1918243369/9c5217473503a8b0ee3505023518f417l-m4xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2266118/9c5217473503a8b0ee3505023518f417l-m5xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1201224083/9c5217473503a8b0ee3505023518f417l-m6xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/992498780/9c5217473503a8b0ee3505023518f417l-m7xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/80248848/9c5217473503a8b0ee3505023518f417l-m8xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/461170143/9c5217473503a8b0ee3505023518f417l-m9xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/331620119/9c5217473503a8b0ee3505023518f417l-m10xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/990763372/9c5217473503a8b0ee3505023518f417l-m11xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/439595914/9c5217473503a8b0ee3505023518f417l-m12xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/459044675/9c5217473503a8b0ee3505023518f417l-m13xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2071240047/9c5217473503a8b0ee3505023518f417l-m14xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/691936809/9c5217473503a8b0ee3505023518f417l-m15xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/613237943/9c5217473503a8b0ee3505023518f417l-m16xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1212682982/9c5217473503a8b0ee3505023518f417l-m17xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1681821897/9c5217473503a8b0ee3505023518f417l-m18xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/876803237/9c5217473503a8b0ee3505023518f417l-m19xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1734728609/9c5217473503a8b0ee3505023518f417l-m20xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1612512351/9c5217473503a8b0ee3505023518f417l-m21xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1238648876/9c5217473503a8b0ee3505023518f417l-m22xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/278008519/9c5217473503a8b0ee3505023518f417l-m23xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/301680146/9c5217473503a8b0ee3505023518f417l-m24xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1838706491/9c5217473503a8b0ee3505023518f417l-m25xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1881341578/9c5217473503a8b0ee3505023518f417l-m26xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1931684228/9c5217473503a8b0ee3505023518f417l-m27xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1165364526/9c5217473503a8b0ee3505023518f417l-m28xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1499693449/9c5217473503a8b0ee3505023518f417l-m29xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1253045263/9c5217473503a8b0ee3505023518f417l-m30xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1601072542/9c5217473503a8b0ee3505023518f417l-m31xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/234735981/9c5217473503a8b0ee3505023518f417l-m32xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1154384967/9c5217473503a8b0ee3505023518f417l-m33xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1410309496/9c5217473503a8b0ee3505023518f417l-m34xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1769427927/9c5217473503a8b0ee3505023518f417l-m35xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1948287053/9c5217473503a8b0ee3505023518f417l-m36xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2006318480/9c5217473503a8b0ee3505023518f417l-m37xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/298068681/9c5217473503a8b0ee3505023518f417l-m38xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/230390555/9c5217473503a8b0ee3505023518f417l-m39xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/666778265/9c5217473503a8b0ee3505023518f417l-m40xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/836043696/9c5217473503a8b0ee3505023518f417l-m41xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1782656635/9c5217473503a8b0ee3505023518f417l-m42xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/48946001/9c5217473503a8b0ee3505023518f417l-m43xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1286454361/9c5217473503a8b0ee3505023518f417l-m44xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/692729127/9c5217473503a8b0ee3505023518f417l-m45xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1226558435/9c5217473503a8b0ee3505023518f417l-m46xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/584036905/9c5217473503a8b0ee3505023518f417l-m47xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/259804651/9c5217473503a8b0ee3505023518f417l-m48xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1015200836/9c5217473503a8b0ee3505023518f417l-m49xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/317372751/9c5217473503a8b0ee3505023518f417l-m50xd-w1020_h770_q80.jpg', 8);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/114994594/9c5217473503a8b0ee3505023518f417l-m51xd-w1020_h770_q80.jpg', 8);
+
+######################################################################
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1678260231/b16bbdb5909a2736626af4ac7c02c2c0l-m0xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2029306910/b16bbdb5909a2736626af4ac7c02c2c0l-m1xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1511785827/b16bbdb5909a2736626af4ac7c02c2c0l-m2xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1122336658/b16bbdb5909a2736626af4ac7c02c2c0l-m3xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/491078998/b16bbdb5909a2736626af4ac7c02c2c0l-m4xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1578541803/b16bbdb5909a2736626af4ac7c02c2c0l-m5xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1526654988/b16bbdb5909a2736626af4ac7c02c2c0l-m6xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/743413548/b16bbdb5909a2736626af4ac7c02c2c0l-m7xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1824542955/b16bbdb5909a2736626af4ac7c02c2c0l-m8xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/575038289/b16bbdb5909a2736626af4ac7c02c2c0l-m9xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1907873613/b16bbdb5909a2736626af4ac7c02c2c0l-m10xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2039651431/b16bbdb5909a2736626af4ac7c02c2c0l-m11xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/325975947/b16bbdb5909a2736626af4ac7c02c2c0l-m12xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/793224872/b16bbdb5909a2736626af4ac7c02c2c0l-m13xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/911016017/b16bbdb5909a2736626af4ac7c02c2c0l-m14xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1010603853/b16bbdb5909a2736626af4ac7c02c2c0l-m15xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2116570329/b16bbdb5909a2736626af4ac7c02c2c0l-m16xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1079655385/b16bbdb5909a2736626af4ac7c02c2c0l-m17xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/271539275/b16bbdb5909a2736626af4ac7c02c2c0l-m18xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1240697679/b16bbdb5909a2736626af4ac7c02c2c0l-m19xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/811417105/b16bbdb5909a2736626af4ac7c02c2c0l-m20xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1614005613/b16bbdb5909a2736626af4ac7c02c2c0l-m21xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2087087506/b16bbdb5909a2736626af4ac7c02c2c0l-m22xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/561067470/b16bbdb5909a2736626af4ac7c02c2c0l-m23xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1790549778/b16bbdb5909a2736626af4ac7c02c2c0l-m24xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/951893015/b16bbdb5909a2736626af4ac7c02c2c0l-m25xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1664487249/b16bbdb5909a2736626af4ac7c02c2c0l-m26xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2120348791/b16bbdb5909a2736626af4ac7c02c2c0l-m27xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2128264809/b16bbdb5909a2736626af4ac7c02c2c0l-m28xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/736569331/b16bbdb5909a2736626af4ac7c02c2c0l-m29xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1168602309/b16bbdb5909a2736626af4ac7c02c2c0l-m30xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/709832895/b16bbdb5909a2736626af4ac7c02c2c0l-m32xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/455160972/b16bbdb5909a2736626af4ac7c02c2c0l-m33xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/969581122/b16bbdb5909a2736626af4ac7c02c2c0l-m34xd-w1020_h770_q80.jpg', 9);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1461766284/b16bbdb5909a2736626af4ac7c02c2c0l-m35xd-w1020_h770_q80.jpg', 9);
+
+##########################################################################
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1334509502/325c963ed527941afe0e6e3a4c5b13efl-m0xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/925825367/325c963ed527941afe0e6e3a4c5b13efl-m1xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/753259499/325c963ed527941afe0e6e3a4c5b13efl-m2xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/196743490/325c963ed527941afe0e6e3a4c5b13efl-m3xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1074958515/325c963ed527941afe0e6e3a4c5b13efl-m4xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/965095031/325c963ed527941afe0e6e3a4c5b13efl-m5xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/992560510/325c963ed527941afe0e6e3a4c5b13efl-m6xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/66984348/325c963ed527941afe0e6e3a4c5b13efl-m7xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/470120546/325c963ed527941afe0e6e3a4c5b13efl-m8xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/455455893/325c963ed527941afe0e6e3a4c5b13efl-m9xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/615802877/325c963ed527941afe0e6e3a4c5b13efl-m10xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/666227786/325c963ed527941afe0e6e3a4c5b13efl-m11xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/453568704/325c963ed527941afe0e6e3a4c5b13efl-m12xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1494187111/325c963ed527941afe0e6e3a4c5b13efl-m13xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/815413770/325c963ed527941afe0e6e3a4c5b13efl-m14xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1023097765/325c963ed527941afe0e6e3a4c5b13efl-m15xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1424858804/325c963ed527941afe0e6e3a4c5b13efl-m16xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/862788655/325c963ed527941afe0e6e3a4c5b13efl-m17xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1551320906/325c963ed527941afe0e6e3a4c5b13efl-m18xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/689151940/325c963ed527941afe0e6e3a4c5b13efl-m19xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1135296650/325c963ed527941afe0e6e3a4c5b13efl-m20xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1260057134/325c963ed527941afe0e6e3a4c5b13efl-m21xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/811102044/325c963ed527941afe0e6e3a4c5b13efl-m22xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/167638297/325c963ed527941afe0e6e3a4c5b13efl-m23xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/828009362/325c963ed527941afe0e6e3a4c5b13efl-m24xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2071174771/325c963ed527941afe0e6e3a4c5b13efl-m25xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/236446612/325c963ed527941afe0e6e3a4c5b13efl-m26xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/402692750/325c963ed527941afe0e6e3a4c5b13efl-m27xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1355191003/325c963ed527941afe0e6e3a4c5b13efl-m28xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/788032982/325c963ed527941afe0e6e3a4c5b13efl-m29xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/943494271/325c963ed527941afe0e6e3a4c5b13efl-m30xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/477157888/325c963ed527941afe0e6e3a4c5b13efl-m31xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1102485961/325c963ed527941afe0e6e3a4c5b13efl-m32xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/585843705/325c963ed527941afe0e6e3a4c5b13efl-m33xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/845403292/325c963ed527941afe0e6e3a4c5b13efl-m34xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/634553605/325c963ed527941afe0e6e3a4c5b13efl-m35xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1824229503/325c963ed527941afe0e6e3a4c5b13efl-m36xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1540897247/325c963ed527941afe0e6e3a4c5b13efl-m37xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/760411043/325c963ed527941afe0e6e3a4c5b13efl-m38xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/487457424/325c963ed527941afe0e6e3a4c5b13efl-m39xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1641735838/325c963ed527941afe0e6e3a4c5b13efl-m40xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/338584322/325c963ed527941afe0e6e3a4c5b13efl-m41xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/83732827/325c963ed527941afe0e6e3a4c5b13efl-m42xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/440552589/325c963ed527941afe0e6e3a4c5b13efl-m43xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/963161372/325c963ed527941afe0e6e3a4c5b13efl-m45xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1062279498/325c963ed527941afe0e6e3a4c5b13efl-m46xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/286197930/325c963ed527941afe0e6e3a4c5b13efl-m47xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1632266760/325c963ed527941afe0e6e3a4c5b13efl-m48xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/2063333550/325c963ed527941afe0e6e3a4c5b13efl-m49xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/224294823/325c963ed527941afe0e6e3a4c5b13efl-m50xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1524462618/325c963ed527941afe0e6e3a4c5b13efl-m51xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1622329643/325c963ed527941afe0e6e3a4c5b13efl-m52xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1999939937/325c963ed527941afe0e6e3a4c5b13efl-m53xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/1250127448/325c963ed527941afe0e6e3a4c5b13efl-m54xd-w1020_h770_q80.jpg', 10);
+
+INSERT INTO "RealEstate_realestateimages"(image, real_estate_id)
+VALUES('https://ap.rdcpix.com/860560199/325c963ed527941afe0e6e3a4c5b13efl-m57xd-w1020_h770_q80.jpg', 10);
+
+############################################################################
