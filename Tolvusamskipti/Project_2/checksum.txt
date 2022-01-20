@@ -1,0 +1,1 @@
+Hello, group_32! To get the secret phrase, send me a message with a valid UDP checksum of 0xa542 from the same ip address as you sent this message (85.220.100.53)!
