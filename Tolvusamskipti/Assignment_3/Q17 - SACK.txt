@@ -1,0 +1,21 @@
+In the original cumulative acknowledgement scheme, 
+the client sends some requests to the server, 
+and the server formulates a response. For this example, 
+lets say the response is four packets.
+
+The server transmits all four packets in response to 
+the request, but the second response packet is lost 
+somewhere in the network and never reaches the client.
+
+This results in the inefficiency that the server has 
+sent all the packets, but the client only acknowledges 
+receiving packet number one - resulting in that the server 
+has to send again packets 2-4 to the client.
+
+With selective acknowledgement (SACK), the client is 
+allowed to say (for this particular example) that it only 
+has received packet number one in order, but has also 
+received packet 3-4. 
+
+This allows the server to re-transmit only the packet 
+(no.2) lost, which then is received by the client.

@@ -1,0 +1,8 @@
+Explain the differences between symmetric and asymmetric encryption.
+
+Symmetric encryption:  Same key is used to encrypt and decrypt.
+Plaintext --> Encryption (key) --> Ciphertext --> Decryption (key) --> Plaintext
+
+
+Asymmetric encryption:  Two different keys, one to encrypt, and to decrypt.
+Plaintext --> Encryption (key1) --> Ciphertext --> Decryption (key2) --> Plaintext

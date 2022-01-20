@@ -1,0 +1,12 @@
+Goodput is the useful user traffic transmitted by a network. 
+That is, packets sent per second (packets/sec). 
+
+In a congestion collapse, network becomes unusable, 
+as transmission of dropped packets increases load, 
+which causes more packets to be dropped. 
+
+Therefore, resulting in a goodput collapse, 
+as the network is still carrying its full load of traffic, 
+but has been driven out by error recovery traffic. 
+
+This may in the end result in the network crashing, as you shall not do.

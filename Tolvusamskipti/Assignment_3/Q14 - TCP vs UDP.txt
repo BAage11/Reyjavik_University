@@ -1,0 +1,10 @@
+TCP/IP deliveres/receives an ordered and error-checked stream of information packets over a network.
+UDP, however, delivers a faster stream of information by excluding error-checking.
+
+With this in mind, I would prefer to design a real time audio application with UDP, as the main purpose is to deliver soundbites to the user.
+With minor errors occuring with the sound quality, it will not interfere with the usage of the application for the end-user, but provide
+him/her with fast stream of audio instead - therefore providing the user with the main purpose of the application, real time audio.
+
+Pros: No excessive latency, which would slow the application down, resulting in faster communcation between the devices.
+
+Cons: Data (packets) can be lost with UDP, versus not lost with TCP

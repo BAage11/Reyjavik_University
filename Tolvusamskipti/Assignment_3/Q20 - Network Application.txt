@@ -1,0 +1,29 @@
+You are asked to improve a real time network application's performance. 
+Examining the code you notice that it sending 1653 byte messages 
+across the network, the Nagle algorithm is enabled on both sides, 
+and the application is using a 2 Mb. buffer. 
+What do you recomend?
+
+--------------------------------------------
+
+According to Nagle's Algorithm, it attempts to limit the number of small 
+packets / connections. As long as there is a sent packet outstanding 
+(no ACK) - Sender will buffer data arriving to be sent. 
+
+Data is then sent, when segment amount of data has been received, 
+and ACK arrives for previous segment.With a real time network application, 
+the Nagle's Algorithm is exactly what you do not want to be happening, 
+as there are a lots of small real time update packets being sent 
+(not the excessively large messages that are being sent over this network). 
+
+Connections can be dropped, whilst Nagle is delaying traffic. 
+As well as the algorithm can create a deadlock with delayed ACKs.
+
+With too big buffers, latency can be caused as well. 
+
+So, my recommendation is the following:
+- Adapt an algorithm that is more suited to real-time network application 
+  performance (not Nagle's Algorithm).
+- Decrease the size of the application buffer.
+- Decrease the size of the messages being sent over the network.
+

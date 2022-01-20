@@ -1,0 +1,19 @@
+Multicast is  a protocol designed to allow the same data to be broadcast between 
+computers on the same multicast group. Each time a host in the group sends a 
+datagram to the multicast group, the network routers ensure that that datagram 
+is sent to all members of the group. 
+
+Considering the SEQ/ACK methods used by TCP/IP to guarantee reliable 
+delivery of data between nodes, what fundamental issues will be created when 
+trying to implement reliable multicast to large groups of hosts?
+
+------------------------------------------------------
+Excessive traffic.By using TCP/IP when dealing with multicast, 
+you are consequently crashing the network very very quickly, 
+as TCP/IP sends packets and waits for acknowledgement from the client(s) 
+before sending the next packet. If an error occurs, 
+that is a packet has not been received by the client, 
+a sequence of error handling is then processed - meaning packets 
+are being sent again over the network, which does not lead to an 
+ideal multicast to large groups of hosts.
+
