@@ -1,0 +1,73 @@
+in
+cr 1
+cr 1
+cr 1
+to
+to
+rq 3
+to
+rq 3
+to
+to
+rl 3
+
+in
+cr 1
+cr 2
+cr 2
+cr 1
+rq 1
+de 2
+rq 1
+to
+
+in
+cr 1
+cr 1
+cr 1
+rq 3		
+rq 1		
+rl 3		
+cr 2		
+rq 3		
+rq 1			
+cr 2		
+rq 0		
+de 5		
+to		
+cr 2		
+cr 2
+cr 1 
+cr 2
+cr 1
+rl 0		
+to		
+cr 2		
+rq 3		
+to		
+de 4		
+
+
+Delete:
+1. If a processor deletes its child, what happens? 
+   Especially with the resources the child is holding
+
+- Remove child from parent list of children
+
+Request:
+if process with priority 1 has resource 1, and process 2 with priority 2 is 
+currently running and requests resource 1, it returns None (instead of
+changing the running process, blocking process 2).
+
+in							running: 0
+cr 1		child: 2,3    resource: 0		running: 1
+cr 1
+cr 1
+rq 0
+to		child: 5	resource: 1,2		running: 2
+rq 1
+rq 2
+cr 1
+to		child: 		resource: 		running: 3
+to		child: 2,3    resource: 0		running: 1
+de 2	
