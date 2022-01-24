@@ -2,13 +2,9 @@
 This course will introduce the basics of web applications and design patterns. 
 <br>
 <br>The focus will be on the protocols and standards that are used in all server-side web frameworks, 
-<br>
 <br>and OOP concepts used when implementing design patterns. Students will also learn how to improve security in websites, 
-<br>
 <br>how to handle errors gracefully, how to write and consume web services, as well as learn about the standards 
-<br>
 <br>and best practises in their implementation. Furthermore, students will learn how to connect to a database and other 
-<br>
 <br>types of data storage in application code. Finally, the future of web applications and web standards will be discussed.
 
 # Learning outcome - Objectives
