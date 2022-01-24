@@ -12,6 +12,7 @@ This course will introduce the basics of web applications and design patterns.
 - Furthermore, essentials in frontend and backend development will be covered. 
 - In addition, important topics in web development, such as web security, testing and debugging, 
 <br>and social role of web applications will be touched upon.Knowledge and comprehension
+
 <br>
 - define and contrast client-side and server-side web applications
 - summarise the content of HTTP requests and responses
@@ -25,6 +26,7 @@ This course will introduce the basics of web applications and design patterns.
 - summarise the different constraints of REST in relation to RESTful APIs
 - discuss the correctness of HTTP response status codes for different endpoints of a RESTful API
 - list and explain the most important web security threats according to the OWASP TOP 10
+
 <br>
 - develop basic client-side web applications using HTML, CSS, and JavaScript
 - make use of AJAX to enrich web applications with asynchronous behaviour
@@ -38,6 +40,7 @@ This course will introduce the basics of web applications and design patterns.
 - test and debug server-side applications
 - develop tests for common web security threats
 - inspect web application source code for potential security threats
+
 <br>
 - propose improvements to web application source code
 - improve existing web application source code
