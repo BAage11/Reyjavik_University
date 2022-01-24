@@ -1,7 +1,9 @@
 # Content
 This is an introductory course in programming with Python. <br>
+<br>
 Basic modules in programming are discussed, e.g. variables, tags, steering commands and functions. <br>
 Emphasis is also placed on built-in data frames such as strings, lists and look-up tables. <br>
+<br>
 The concept of class is introduced and how it supports encapsulation and information concealment in object-oriented programming. <br>
 Students learn to use both an integrated development environment (IDE) and a command mode to develop and run applications. 
 
