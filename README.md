@@ -1,7 +1,7 @@
 # Reyjavik_University
 
 Programming courses taken at Reykjavik University in Iceland, from August 2018 to December 2020.
-<br> Programming courses:
+<br> Programming courses include (shown above):
 - Programming  (ísl. Forritun)
 - Data Structures  (ísl. Gagnaskipan)
 - Software Engineering  (ísl. Hugbúnaðarfræði)
