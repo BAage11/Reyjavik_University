@@ -11,7 +11,7 @@ This course will introduce the basics of web applications and design patterns.
 - The course will cover basic network terminology to understand how web applications function. 
 - Furthermore, essentials in frontend and backend development will be covered. 
 - In addition, important topics in web development, such as web security, testing and debugging, 
-<br>and social role of web applications will be touched upon.Knowledge and comprehension <br>
+<br>and social role of web applications will be touched upon.Knowledge and comprehension <br><br>
 - define and contrast client-side and server-side web applications
 - summarise the content of HTTP requests and responses
 - list different HTTP methods and explain their purpose
@@ -23,7 +23,7 @@ This course will introduce the basics of web applications and design patterns.
 - discuss web application testing and contrast different testing techniques
 - summarise the different constraints of REST in relation to RESTful APIs
 - discuss the correctness of HTTP response status codes for different endpoints of a RESTful API
-- list and explain the most important web security threats according to the OWASP TOP 10 <br>
+- list and explain the most important web security threats according to the OWASP TOP 10 <br><br>
 - develop basic client-side web applications using HTML, CSS, and JavaScript
 - make use of AJAX to enrich web applications with asynchronous behaviour
 - debug and test basic client-side web applications
@@ -35,7 +35,7 @@ This course will introduce the basics of web applications and design patterns.
 - deploy a server-side application to an online cloud provider
 - test and debug server-side applications
 - develop tests for common web security threats
-- inspect web application source code for potential security threats <br>
+- inspect web application source code for potential security threats <br><br>
 - propose improvements to web application source code
 - improve existing web application source code
 - assess existing code for errors and security vulnerabilities
