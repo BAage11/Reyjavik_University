@@ -13,7 +13,8 @@ The subject is to develop implementations, analyze or measure their effectivenes
 - Be able to implement and apply basic network algorithms, such as depth-first and width-first search, interactive closure, <br>
 narrowing, and algorithms for the shortest paths and the smallest span tree.
 - Be able to evaluate the effect of different embodiments of cognitive data on the complexity of algorithms.
-- Be able to use "big-oh", omega, and these spellings to describe upper, lower, and tight boundaries of time and space complexity algorithm in increment.
+- Be able to use "big-oh", omega, and these spellings to describe upper, lower, and tight boundaries of time and <br>
+space complexity algorithm in increment.
 - Be able to apply the scientific method to derive the performance behavior of algorithms.
 - Be able to implement basic data frameworks and apply them to different data
 - Be able to evaluate algorithms, choose between different solutions, reasonably choose, and implement in an application
