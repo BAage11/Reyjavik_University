@@ -10,6 +10,7 @@ This course will introduce the basics of web applications and design patterns.
 <br>
 <br>Furthermore, students will learn how to connect to a database and other 
 <br>types of data storage in application code. Finally, the future of web applications and web standards will be discussed.
+<br>
 
 # Learning outcome - Objectives
 - This course will introduce the basics of web development. 
